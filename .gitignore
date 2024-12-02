@@ -64,6 +64,13 @@ atlassian*
 !/pub/media/sitemap/.htaccess
 /pub/static/*
 !/pub/static/.htaccess
+/vendor
+/dev
+/bin
+/pub/errors
+/setup
+/phpserver
+/lib
 
 /var/*
 !/var/.htaccess
