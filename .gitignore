@@ -71,6 +71,7 @@ atlassian*
 /setup
 /phpserver
 /lib
+/auth.json
 
 /var/*
 !/var/.htaccess
